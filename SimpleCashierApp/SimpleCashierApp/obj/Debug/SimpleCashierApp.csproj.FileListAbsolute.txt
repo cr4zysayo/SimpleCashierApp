@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\bin\Debug\SimpleCashierApp.exe.config
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\bin\Debug\SimpleCashierApp.exe
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\bin\Debug\SimpleCashierApp.pdb
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.Form1.resources
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.Properties.Resources.resources
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.exe
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.pdb
+C:\Users\PC\source\repos\SimpleCashierApp\SimpleCashierApp\obj\Debug\SimpleCashierApp.Calculator.resources
